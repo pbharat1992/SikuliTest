@@ -3,7 +3,8 @@
          bharat
          kumae 
          chari
-         panuganti*/
+         panuganti
+         kumar*/
 
 package com.sikuli.test;
 
